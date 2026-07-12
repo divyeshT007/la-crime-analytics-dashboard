@@ -114,10 +114,9 @@ Validation checks were performed for:
 ```
 losangelescrime-dashboard/
 │
-├── Dataset/
-├── PowerBI_Report/
-├── Dashboard_Screenshots/
-└── README.md
+├── README.md
+├── Dashboard_Screenshot-1
+└── Dashboard_Screenshot-2
 ```
 
 ---
@@ -154,6 +153,7 @@ Through this project, the following skills were developed:
 ## Project Links
 
 - **Kaggle Dataset:** [Los Angeles Crime Dataset (2020–Present)](https://www.kaggle.com/datasets/nathaniellybrand/los-angeles-crime-dataset-2020-present)
+- **Dashboard:** [Power BI dashboard](https://github.com/divyeshT007/la-crime-analytics-dashboard/releases/tag/LA_crime)
 - **GitHub Repository:** [LA Crime Analytics Dashboard](https://github.com/divyeshT007/la-crime-analytics-dashboard/)
 - **LinkedIn Profile:** [Divyesh Timbadiya](https://www.linkedin.com/in/divyesh-timbadiya-546651225)
 
