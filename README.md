@@ -155,8 +155,7 @@ Through this project, the following skills were developed:
 
 - **Kaggle Dataset:** [Los Angeles Crime Dataset (2020–Present)](https://www.kaggle.com/datasets/nathaniellybrand/los-angeles-crime-dataset-2020-present)
 - **GitHub Repository:** [LA Crime Analytics Dashboard](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME)
-- **NovyPro / Live Dashboard:** [Add your published dashboard link here]
-- **LinkedIn Profile:** [Add your LinkedIn link here]
+- **LinkedIn Profile:** [Divyesh Timbadiya](https://www.linkedin.com/in/divyesh-timbadiya-546651225)
 
 ---
 
