@@ -162,8 +162,8 @@ Through this project, the following skills were developed:
 
 ## Preview
 
-![LA Crime Dashboard Preview 1](./screenshot-1.png)
-![LA Crime Dashboard Preview 2](./screenshot-2.png)
+![LA Crime Dashboard Preview 1](./Screenshot-1.png)
+![LA Crime Dashboard Preview 2](./Screenshot-2.png)
 
 ---
 
